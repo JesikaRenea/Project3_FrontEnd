@@ -6,7 +6,7 @@ const Header = props => {
 
 
             <div className="jumbotron">
-                <h3 className="appTitle">Learning Hub</h3>
+                {/* <h3 className="appTitle">Learning Hub</h3> */}
                 <img className="logo-image" src="../assets/images/learning.png" alt="Logo" />
                 <hr />
                 <br />

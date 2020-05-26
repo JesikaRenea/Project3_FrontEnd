@@ -11,11 +11,11 @@ const Main = props => {
         </a>
 
         <ul id="nav-mobile" class="left hide-on-med-and-down">
-          <li><a href="#">Home</a></li>
-          <li><a href="#">Search Web</a></li>
+          <li><a href="/main">Home</a></li>
+          <li><a href="/websearch">Search Web</a></li>
           <li><a href="#">Search Tutorials</a></li>
-          <li><a href="#">My Definitions</a></li>
-          <li><a href="#">My Library</a></li>
+          <li><a href="/definitions">My Definitions</a></li>
+          <li><a href="/library">My Library</a></li>
         </ul>
       </div>
     </nav>

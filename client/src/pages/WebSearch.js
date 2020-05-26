@@ -4,7 +4,7 @@ import SkillsTable from "./SkillsTable";
 import UserInputs from "./UserInputs"
 
 
-const Main = props => {
+const WebSearch = props => {
     return (
 
         <div class="row mainRow1">
@@ -20,4 +20,4 @@ const Main = props => {
     );
 };
 
-export default Main
+export default WebSearch
